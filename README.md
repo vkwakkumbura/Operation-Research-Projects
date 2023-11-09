@@ -10,7 +10,7 @@ This repository is intended for anyone who is interested in operations research,
 
 **Projects**
 
-* Linear Programming Project 1: Implements a linear programming solver to solve a simple transportation problem.
+* Cplex-Python-GoogleColab: Implements a linear programming.
 
 **Documentation and Resources**
 
